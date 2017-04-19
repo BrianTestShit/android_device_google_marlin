@@ -417,5 +417,8 @@
     <bool name="config_sustainedPerformanceModeSupported">true</bool>
 
      <!-- True if Unprocessed audio source supports the required frequency range and level -->
-    <bool name="config_supportAudioSourceUnprocessed">true</bool>
+     <bool name="config_supportAudioSourceUnprocessed">true</bool>
+    
+    <!-- enable doze powersaving mode -->
+    <bool name="config_enableAutoPowerModes">true</bool>
 </resources>
